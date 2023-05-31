@@ -6,8 +6,10 @@ with the help of Neural Network. It basically detects
 the scanned images of handwritten digits.
 The MNIST handwritten digit classification problem is a standard dataset used in computer vision and deep learning. Although the dataset is effectively solved, it can be used as the basis for learning and practicing how to develop, evaluate, and use convolutional deep learning neural networks for image classification from scratch.
 
-Here we have used 2 data sets named 'train.csv' and 'test'csv' along with original dataset inbuilt in Keras datasets Module. You can find the datasets in kaagle
+Here we have used 2 data sets named 'train.csv' and 'test'csv' along with original dataset inbuilt in Keras datasets Module. You can find the datasets in kaagle.
+
 train data = https://www.kaggle.com/competitions/digit-recognizer/data?select=train.csv
+
 test data = https://www.kaggle.com/competitions/digit-recognizer/data?select=test.csv
 
 The train data is used as a validation set to estimate validation accuracy and loss that helps to optimize the model. The test data is used to generate predictions.
