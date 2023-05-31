@@ -14,7 +14,8 @@ test data = https://www.kaggle.com/competitions/digit-recognizer/data?select=tes
 
 The train data is used as a validation set to estimate validation accuracy and loss that helps to optimize the model. The test data is used to generate predictions.
 
-Inodrer to develop CNN model we need certain libraries and essential a High GPU thus here I have used 'Google Colab' which is an online environment to develop ML models. you can create your colab notebook from your google account and you need to mount your 'Google Drive' and load data sets in your drive
+Inodrer to develop CNN model we need certain libraries and essential a High GPU thus here I have used 'Google Colab' which is an online environment to develop ML models. you can create your colab notebook from your google account and you need to mount your 'Google Drive' and load data sets in your drive.
+
 link to colab = https://colab.research.google.com/
 
 The modules and libraries used are:
